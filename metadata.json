@@ -1,0 +1,8 @@
+{
+  "name": "KAVACH - AI Security Detective",
+  "description": "An agentic AI framework for automated vulnerability discovery, verification, and remediation. Includes live recon and security analysis capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
